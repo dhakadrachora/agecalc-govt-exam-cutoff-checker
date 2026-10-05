@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://agecalc-govt-exam-cutoff-checker.vercel.app/sitemap.xml

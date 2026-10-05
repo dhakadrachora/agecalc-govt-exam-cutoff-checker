@@ -1,0 +1,8 @@
+{
+  "name": "agecalc-govt-exam-cutoff-checker",
+  "version": "1.0.0",
+  "description": "Calculate your exact age in Years, Months, Days, and Hours as on any cutoff date for SSC, UPSC, and state exam forms.",
+  "scripts": {
+    "start": "npx serve ."
+  }
+}
